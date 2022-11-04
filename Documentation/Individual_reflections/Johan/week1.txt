@@ -1,0 +1,3 @@
+This first week of the course consisted of many new terms and concepts related to how to work in an agile team. The puzzle and lego exercises have been a fun and engaging way to convert the new concepts into practice. The following week and weeks i hope to utilize more of this the theory we learned about the scrum framework in the lectures within our project to enhance the productivity and teamwork within our group.
+
+I have some previous experience using scrum in an agile team working with software development. I will try to contribute with some knowledge and tips to the team during the initial part of the project to help other team members familiarize with the concept and write our first user stories.

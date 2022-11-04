@@ -1,0 +1,11 @@
+week 7
+
+This week we focused on our final sprint, trying to implement the last feature of
+our app. This being the random fact window on the loading screen. I contributed with 
+updating the database once more. Since the database is stored on a cloud in heroku,
+my contributions on the database are not pushed to the git and it seems like "I haven't
+contributed with anything", which is not the case.
+I also made a test for testing the random function of the getFact() method which
+spits out a fact on the loading screen. Now we need to focus on the final report
+and i've made a document and made titles so the document is structured and ready
+to write on this next sprint.

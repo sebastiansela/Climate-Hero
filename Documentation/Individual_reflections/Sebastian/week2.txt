@@ -1,0 +1,11 @@
+Week 2
+
+Second week was much like week 1 with only preparations. This week we came up
+with an idea por the project. I wan't to learn to use jira properly as a first
+step, making user stories and planning etc. We did this together in our group 
+which was nice to see how i works but it's exiting to start using it.
+
+Since we all worked together with the project idea, presentation and came up with 
+some user stories I would say that we all contributed in our own ways, both taking
+a role as an PO and as a developer so we could get some feeling of how it works,
+and it's great we all share the same vision and exitement for this project!

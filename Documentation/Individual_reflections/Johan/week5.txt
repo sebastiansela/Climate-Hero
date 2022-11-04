@@ -1,0 +1,3 @@
+# 
+
+Sprint number 4 contained some major progress on our climate hero app. The sprint has been about to both get the database functionality as well as the cloud vision api (image recognition) to a functional state. We succeeded with this and now the climate hero app is a very viable mvp. The teamwork this sprint has been good and much of the work has been done co-authoring the different classes needed. The project is where its need to be, and the coming sprint will be much more about fine tuning the app and maybe add some minor new features to enrich the app functionality more. The team as a whole is also more and more adapting the the agile work methods and the coming sprint i hope that we focus even more on using the agile tools in our way of working.

@@ -1,0 +1,8 @@
+week 5
+
+This week was set up so we could reach our MVP (minimal value product). We had some issues in the beggining and going through the later part of the sprint
+regarding the Cloud Vision API, with the code and some tests that wouldn't work. Me and my partners mostly worked together on this matter, searching for information on what the 
+problem of the API could be, and I found some links saying that it maybe was because of Android Studio and gradle having som files that are written in kotlin, but that turned out false. The
+problem was solved by introducing a thread to the program. Besides the teamwork of debugging, I also worked with the database and added new values and drew in our UML to envision our application. As mentioned 
+last week, one of my tickets/tasks this week was to implement a camera function which i did last sprint, as a false start (don't know the proper translation of a 'tjuvstart' in english). Working with Scrum/Jira
+has become convinient for me, and I really like working with it.

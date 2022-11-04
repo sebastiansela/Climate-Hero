@@ -1,0 +1,8 @@
+Week 3
+This week we started using our scrum and get the basics of setting up android studios 
+to work. What I want to learn to understand better is to work with .xml and android studios
+when creating our app. To help myself and the team I can search for information on 
+the internet like videos and such. I found a good starter video wich I Shared with
+my teamates about getting started with AS, wich was my "work" in this weeks sprint,
+although we worked all together with the initial tasks for the project most of the 
+time this sprint.

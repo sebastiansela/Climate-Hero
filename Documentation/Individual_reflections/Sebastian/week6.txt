@@ -1,0 +1,6 @@
+week 6
+
+This week was mostly "behind the scenes" work. I managed to update the database and help to update our heroku database and remove the toolbar which is featured when starting a new Android Studio project. 
+I had some problems working with removing the toolbar and the time i spent working was longer than the estimated time, even though the problem was fiuxed by moving the "removing" line of code to 
+another segment of a method. I don't really know what I'd like to learn or understand at this point since i feel that i've got a overall good understanding of everything we're working with, but if I would pick something it would be the connection 
+between our heroku database and our SQLite database. By next sprint I could maybe help my team get a better understanding of the UML diagrams since it was about 9 months since we last worked with them in another course.

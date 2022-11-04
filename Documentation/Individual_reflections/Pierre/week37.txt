@@ -1,0 +1,4 @@
+This week the aim is to plan and start the first sprint. So my aim is to learn as much as possible about how to plan sprints and break them down into tasks.
+We also need to go through the user stories from last week to make sure they meet up to the INVEST-model.
+My hoping is that the whole team will get a better understanding on how to write proper user stories and get the first idea on how to plan sprints.
+My biggest contribution should be planning task management.

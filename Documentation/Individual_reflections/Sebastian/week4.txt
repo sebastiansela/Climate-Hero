@@ -1,0 +1,7 @@
+Week 4
+
+My understanding on working agile and with the programs we've used has increased over 2 weeks, which feels great. I don't really now what new things I can "learn" but I want to keep working towards our final product and learn
+on the way. When it comes to what I can help my companions learn something new I can maybe provide articles, or videos on working with Android Studios. After our sprints I can try to explain and show my work so that the rest
+of the team also understands the program in a bigger picture when we have our meetings. This week, my contribution was a basic database which was uploaded via heroku (with help from Oscar who created our heroku workspace)
+so that some items can be found in tables where they're should be recycled. I also found a video on how to set up the mobile camera in Android Studios, which wasn't in our sprint but I since it was quite a simple solution i
+implemented it anyways  because I was curious how it would work. The camera function does not yet work in our app, but you can take pictures in the emulator.

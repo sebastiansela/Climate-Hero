@@ -1,0 +1,3 @@
+By really trying to use agile/scrum methods, my hope is to begin see the benefits and potential of this approach.
+Next week we'll probably start writing user stories which will be a good starting point and my aim is to consult available documentation on best-practise whenever necessary.
+I will start by compile some basic guidelines on User stories that I can share with the team, as well as using my management knowledge to plan the first sprint and deliveries.

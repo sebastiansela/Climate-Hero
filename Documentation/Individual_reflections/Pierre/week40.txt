@@ -1,0 +1,1 @@
+This week we'll focus on enhance the user experience as well as raise the code quality. I will study Android test functionality and start implement tests for the system. I will then charge this new knowledge with the team.
