@@ -2,6 +2,9 @@
 
 ![Group_5](https://user-images.githubusercontent.com/8554236/198373083-7b5e5409-3620-4e02-bceb-df063cd7c710.png)
 
+OBS!
+Here's a video demonstration of Climate Hero: https://youtu.be/8-Wjkzx_dWk
+
 
 The goal of the application is to spread the importance of recycling, for a more sustainable future, and work toward climate goal 13 - climate action. The primary user group in mind is kids. To aid in recycling the user takes a photo of the item to be recycled and the application will output which recycle bin to throw the item in. Since the app's slogan is to “make waste zero” we are creating value for companies dealing with recycling since it increases the chances that items are actually recycled in the correct bin.
 
